@@ -116,16 +116,12 @@ header {
 
     #main-nav {
         justify-content: space-evenly;
-        min-width: 50%;
+        min-width: 50%; /*sikrer at menupunkterne ikke presses sammen*/
         margin: 0;
     }
 
     #main-nav a {
         margin: 0 .5em;
-    }
-
-    .hidden {
-        display: none;
     }
 
     /*Dette fjerner burgermenu ikonet*/
