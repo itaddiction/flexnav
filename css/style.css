@@ -110,7 +110,7 @@ header {
         display: flex;
         justify-content: space-evenly;
         align-items: center;
-        flex-direction: column;
+        flex-direction: column; /*denne linje kan fjernes, hvis du ikke ønsker at have en version af menuen hvor logo er oven på menupunkterne*/
     }
 
 
